@@ -14,7 +14,7 @@ That's where this package comes in to provide a quick synchronization route you 
 Before getting started you'll need to install the package and publish the config file.
 
 ```
-composer require nathanheffley/laravel-watermelon
+composer require pooryamd/laravel-watermelon
 ```
 
 ```
